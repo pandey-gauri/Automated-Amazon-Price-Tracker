@@ -2,7 +2,7 @@ import smtplib
 import requests
 import lxml
 from bs4 import BeautifulSoup
-import smtplib
+
 
 url = "https://www.amazon.com/dp/B075CYMYK6?psc=1&ref_=cm_sw_r_cp_ud_ct_FM9M699VKHTT47YD50Q6"
 header = {
